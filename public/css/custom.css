@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke;
+    max-width: 100%;
+}
+
+.green{
+    color: green;
+}
+
+
+/*Admin area*/
+#admin{
+    max-width: 60%;
+    margin: 0 auto;
+}
+#admin h2{
+    text-align: center;
+    margin: 0 auto;
+}
+.content{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, serif;
+    font-weight: bold;
+}
+
+/*login form*/
+.login-form{
+    max-width: 25%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*About page*/
+.about{
+    text-align: center;
+}
+.mx-auto{
+    min-width: 80%; !important;
+}
